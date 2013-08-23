@@ -1,0 +1,3 @@
+obj-m := memhack.o
+
+memhack-objs := main.o procfs.o
